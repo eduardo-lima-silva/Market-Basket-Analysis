@@ -13,7 +13,7 @@ To analyze purchasing patterns and identify relationships between products using
 ## 📊 Tools & Libraries
 - Python
 - Pandas
-- Matplotlib / Seaborn (if used)
+- Numpy
 
 ## 📈 Results
 The model identifies frequent itemsets and extracts association rules that reveal which products are commonly purchased together.
